@@ -4,7 +4,7 @@ format:
     theme: cosmo
 ---
 
-## Objectives {.unnumbered}
+## Objectives {.unnumbered} CHANGE 13:03 21/09/26
 
 - Have access to `R` through `RStudio`, `VS Code` or another GUI.
 - Have basic access to the labs via GitHub classroom.
